@@ -1,0 +1,26 @@
+OpenDNS:
+208.67.222.123
+208.67.220.123
+
+NORTON:
+Security
+Preferred DNS Server: 198.153.192.40
+Alternate DNS Server: 198.153.194.40
+
+Security + P
+Preferred DNS Server: 198.153.192.50
+Alternate DNS Server: 198.153.194.50
+
+Security + P + Non-Family Friendly
+Preferred DNS Server: 198.153.192.60
+Alternate DNS Server: 198.153.194.60
+
+MetaCert DNS: 184.169.223.35
+
+SafeDNS:
+Primary DNS server: 195.46.39.39
+Secondary DNS Server: 195.46.39.40
+
+SentryDNS:
+Primary DNS Server: 152.160.81.10
+Secondary DNS Server:  70.90.33.94
